@@ -1,0 +1,3 @@
+interface CompItem {
+    String getName();
+}
