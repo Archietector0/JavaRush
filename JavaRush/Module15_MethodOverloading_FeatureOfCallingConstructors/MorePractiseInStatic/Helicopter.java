@@ -1,0 +1,3 @@
+class Helicopter implements IFlyable {
+
+}
